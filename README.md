@@ -1,6 +1,6 @@
 # Weather-Data-ETL-pipeline
 
-Overview
+# Overview
 
 This project demonstrates an ETL (Extract, Transform, Load) pipeline that extracts weather data from the OpenWeatherMap API, processes it using Apache Airflow, and stores it in AWS services. The project highlights the integration of various data engineering tools and platforms.
 Key Components
@@ -9,7 +9,7 @@ Key Components
     Apache Airflow: Orchestration tool to manage ETL workflow.
     AWS: Cloud storage and processing services (e.g., S3, Redshift).
 
-Installation
+#Installation
 Prerequisites
 
     Python 3.6 or higher
