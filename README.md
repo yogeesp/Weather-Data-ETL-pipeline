@@ -23,7 +23,7 @@ Installation Steps
 
     sh
 
-git clone https://github.com/YemiOla/data_engineering_project_openweathermap_api_airflow_etl_aws.git
+git clone [link]
 cd data_engineering_project_openweathermap_api_airflow_etl_aws
 
 Install Python Dependencies
